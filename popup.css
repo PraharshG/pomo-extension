@@ -1,0 +1,16 @@
+body {
+    width: 200px;
+    padding: 10px;
+  }
+  
+  #timer {
+    margin-top: 20px;
+  }
+  
+  #todo-list {
+    margin-bottom: 20px;
+  }
+  
+  input[type="checkbox"] {
+    margin-right: 5px;
+  }
